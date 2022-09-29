@@ -1,5 +1,5 @@
 SMS Spam Classification
-Spam Classifier built using CountVectorizer and Tf-idf Vectorizer. Source of dataset: https://www.kaggle.com/uciml/sms-spam-collection-dataset We employed Upsampling and Cross-val in our project, and built the following models:
+Spam Classifier built using CountVectorizer and Tf-idf Vectorizer. Source of dataset: https://www.kaggle.com/uciml/sms-spam-collection-dataset We employed Upsampling and Cross-val in our project, and built the models.
 
 Histogram of most commonly occuring words in the ham and spam messages
 Wordclouds of most commonly occurring words in the ham and spam messages
