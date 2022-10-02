@@ -8,4 +8,5 @@ We reported the f-measure and accuracy scores of each model as part of our findi
 Application is hosted on heroku, click on link to see the demo https://ssc-qaiser.herokuapp.com/
 
 
-![image](https://user-images.githubusercontent.com/95518289/192505516-385f297e-1863-4bc0-8b13-24bd53d0e070.png)
+![image](https://user-images.githubusercontent.com/95518289/193455781-b227aabb-602a-4104-91d6-b52a6517c7cf.png)
+
